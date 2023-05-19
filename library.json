@@ -15,7 +15,8 @@
   ],
   "dependencies": [
     {
-      "me-no-dev/ESPAsyncWebServer": "*",
+      "name": "ESPAsyncWebServer",
+      "platforms": ["espressif32"]
     }
   ],
   "version": "2.2.0",
